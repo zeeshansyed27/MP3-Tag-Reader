@@ -1,9 +1,3 @@
-/*Name: Syed Zeeshan Ulla
-Date: 00/00/2022
-Description:
-Input:
-Output:*/
-
 #include "types.h"
 #include "common.h"
 #include <stdio.h>
